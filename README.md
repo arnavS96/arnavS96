@@ -29,8 +29,7 @@ I'm committed to enhancing my skills in building efficient ML applications while
 - **B.Tech in Mathematics & Computing Engineering** from Delhi College of Engineering
 
 ### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/arnav-saxena/)
 
 <!--
 **arnavS96/arnavS96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
