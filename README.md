@@ -23,9 +23,7 @@ I'm committed to enhancing my skills in building efficient ML applications while
 
 ### 📫 Get in Touch
 - Email: [arnav.saxena@columbia.edu](mailto:arnav.saxena@columbia.edu)
-
-### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/arnav-saxena/)
+- Social: [LinkedIn](https://www.linkedin.com/in/arnav-saxena/)
 
 <!--
 **arnavS96/arnavS96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
