@@ -9,10 +9,7 @@ I'm an ML Research Engineer specializing in Healthcare, based in San Francisco.
 - **B.Tech in Mathematics & Computing** from Delhi College of Engineering
 
 ### 🔭 Current Work
-I’m currently working on **scaling medical knowledge using neuro-symbolic AI at Evidium**.
-
-### 🌱 Continuous Learning
-I'm committed to enhancing my skills in building efficient ML applications while adhering to clean code principles.
+I’m currently working on **scaling medical knowledge using neuro-symbolic AI at Evidium**
 
 ### 🧠 Interests
 - **Entrepreneurship**
